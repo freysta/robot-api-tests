@@ -11,7 +11,7 @@ Este projeto contém testes automatizados de API usando o Robot Framework, focan
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/robot-api-tests.git
+   git clone https://github.com/freysta/robot-api-tests.git
    cd robot-api-tests
    ```
 
