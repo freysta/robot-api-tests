@@ -111,21 +111,4 @@ O projeto utiliza keywords abstratas para melhorar a manutenibilidade:
 - `Criar Dicionário`: Cria dicionários de dados
 - `Adicionar Item ao Dicionário`: Manipula dicionários
 
-## Notas Técnicas
 
-- A API Reqres (https://reqres.in/api) foi removida do projeto devido a mudanças na API que passaram a requerer autenticação não disponível publicamente.
-- Todos os testes estão passando para a API Restful-Booker (4/4 testes aprovados).
-- O projeto utiliza tags para categorização de testes, permitindo execuções seletivas.
-- A estrutura `resources/` centraliza keywords e variáveis para melhor reutilização.
-
-## Contribuição
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
