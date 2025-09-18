@@ -1,4 +1,23 @@
+# Ambiente Virtual Python
 venv/
+
+# Arquivos de resultado do Robot Framework
 results/
+output.xml
+log.html
+report.html
+*.log
+*.html
+*.xml
+
+# Arquivos de Cache Python
 __pycache__/
 *.pyc
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
