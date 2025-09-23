@@ -1,6 +1,6 @@
 # Testes de API com Robot Framework
 
-Este projeto contém testes automatizados de API usando o Robot Framework, focando na API Restful-Booker. O projeto segue as melhores práticas da comunidade Robot Framework, com estrutura organizada, keywords reutilizáveis e documentação completa.
+Este projeto contém testes automatizados de API usando o Robot Framework, focando na API Restful-Booker.
 
 ## Pré-requisitos
 
